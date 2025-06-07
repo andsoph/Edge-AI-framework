@@ -1,0 +1,22 @@
+# Ignore build artifacts
+/build/
+Debug/
+Release/
+*.obj
+*.exe
+*.log
+*.pdb
+*.idb
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode settings (optional, unless you want to keep these)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
